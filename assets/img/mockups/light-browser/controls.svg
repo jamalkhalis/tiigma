@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="9" viewBox="0 0 40 9">
+  <g id="Window_controls" data-name="Window controls" transform="translate(0 0.002)">
+    <path id="Close" d="M0,4.5A4.5,4.5,0,1,1,4.5,9,4.5,4.5,0,0,1,0,4.5Z" fill="#ff5f57"/>
+    <path id="Minimize" d="M0,4.5A4.5,4.5,0,1,1,4.5,9,4.5,4.5,0,0,1,0,4.5Z" transform="translate(15)" fill="#ffbd2e"/>
+    <path id="Maximize" d="M0,4.5A4.5,4.5,0,1,1,4.5,9,4.5,4.5,0,0,1,0,4.5Z" transform="translate(31)" fill="#27c940"/>
+  </g>
+</svg>

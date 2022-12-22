@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="67.812" height="14.376" viewBox="0 0 67.812 14.376">
+  <g id="Icons" transform="translate(-0.004 0)">
+    <g id="Tab_Overview" data-name="Tab Overview" transform="translate(54.816 0.501)">
+      <path id="Rechteck_1" data-name="Rechteck 1" d="M5,6H1A1,1,0,0,1,0,5V1A1,1,0,0,1,1,0H5A1,1,0,0,1,6,1V5A1,1,0,0,1,5,6ZM1,1V5H5V1Z" fill="#62656c"/>
+      <path id="Rechteck_2" data-name="Rechteck 2" d="M5,6H1A1,1,0,0,1,0,5V1A1,1,0,0,1,1,0H5A1,1,0,0,1,6,1V5A1,1,0,0,1,5,6ZM1,1V5H5V1Z" transform="translate(7)" fill="#62656c"/>
+      <path id="Rechteck_3" data-name="Rechteck 3" d="M5,6H1A1,1,0,0,1,0,5V1A1,1,0,0,1,1,0H5A1,1,0,0,1,6,1V5A1,1,0,0,1,5,6ZM1,1V5H5V1Z" transform="translate(7 7)" fill="#62656c"/>
+      <path id="Rechteck_4" data-name="Rechteck 4" d="M5,6H1A1,1,0,0,1,0,5V1A1,1,0,0,1,1,0H5A1,1,0,0,1,6,1V5A1,1,0,0,1,5,6ZM1,1V5H5V1Z" transform="translate(0 7)" fill="#62656c"/>
+    </g>
+    <g id="New_Tab" data-name="New Tab" transform="translate(27.221 0.937)">
+      <path id="Pfad_1" data-name="Pfad 1" d="M.6,12.748a.6.6,0,0,1-.6-.6V.6A.6.6,0,1,1,1.2.6v11.55A.6.6,0,0,1,.6,12.748Z" transform="translate(5.773)" fill="#62656c"/>
+      <path id="Pfad_2" data-name="Pfad 2" d="M.6,12.748a.6.6,0,0,1-.6-.6V.6A.6.6,0,1,1,1.2.6v11.55A.6.6,0,0,1,.6,12.748Z" transform="translate(12.745 5.773) rotate(90)" fill="#62656c"/>
+    </g>
+    <g id="Share">
+      <path id="Pfad_5" data-name="Pfad 5" d="M.5,9.242a.5.5,0,0,1-.5-.5V.5a.5.5,0,0,1,1,0V8.742A.5.5,0,0,1,.5,9.242Z" transform="translate(5.11)" fill="#62656c"/>
+      <path id="Pfad_6" data-name="Pfad 6" d="M4.622,3.065a.5.5,0,0,1-.353-.147L2.561,1.208.854,2.918a.5.5,0,1,1-.706-.708L2.208.147a.5.5,0,0,1,.706,0l2.06,2.064a.5.5,0,0,1-.353.854Z" transform="translate(3.048 0)" fill="#62656c"/>
+      <path id="Pfad_8" data-name="Pfad 8" d="M9.724,0H8.114V1h1.61a.5.5,0,0,1,.5.5v7.25a.5.5,0,0,1-.5.5H1.5a.5.5,0,0,1-.5-.5V1.5A.5.5,0,0,1,1.5,1h1.61V0H1.5A1.5,1.5,0,0,0,0,1.5v7.25a1.5,1.5,0,0,0,1.5,1.5h8.22a1.5,1.5,0,0,0,1.5-1.5V1.5A1.5,1.5,0,0,0,9.724,0Z" transform="translate(0 4.123)" fill="#62656c"/>
+    </g>
+  </g>
+</svg>
