@@ -72,3 +72,12 @@ if ( videoBtn = document.querySelectorAll('.video-btn-modal')) {
 
 // initialize the AOS
 AOS.init();
+
+
+// $(window).on("load",function(){
+//      $(".loader-wrapper").fadeOut("slow");
+// });
+
+window.addEventListener("load", function(event){
+    document.querySelector('.loader-wrapper').style.display = "none";
+})
